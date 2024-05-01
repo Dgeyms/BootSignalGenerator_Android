@@ -46,7 +46,7 @@
             android:id="@+id/createBot_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/create_boot" />
+            android:text="@string/create_signal" />
 
     </LinearLayout>
 
@@ -141,10 +141,10 @@
             android:text="@string/pool" />
 
         <Button
-            android:id="@+id/button_stayking"
+            android:id="@+id/button_staking"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/button_stayking"/>
+            android:text="@string/button_staking"/>
 
     </LinearLayout>
 

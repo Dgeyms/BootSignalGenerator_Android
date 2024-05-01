@@ -3,12 +3,12 @@
     <string name ="messages">Messages</string>
     <string name="setting">Setting</string>
     <string name="total_balance">Total balance</string>
-    <string name="create_boot">Create bot</string>
+    <string name="create_signal">Create signal</string>
     <string name="home">Home</string>
     <string name="bootAlgo">Algo</string>
     <string name="trades">Trades</string>
     <string name="pool">Pool</string>
-    <string name="button_stayking">Stayk</string>
+    <string name="button_staking">Staking</string>
     <string name="name_boot">Name bot</string>
     <string name="token_pair">Token pair</string>
     <string name="time">Time</string>
