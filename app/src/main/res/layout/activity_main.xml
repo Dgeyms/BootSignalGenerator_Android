@@ -135,7 +135,7 @@
             android:text="@string/bootAlgo" />
 
         <Button
-            android:id="@+id/wallet"
+            android:id="@+id/button_pool"
             android:layout_width="66dp"
             android:layout_height="wrap_content"
             android:text="@string/pool" />
