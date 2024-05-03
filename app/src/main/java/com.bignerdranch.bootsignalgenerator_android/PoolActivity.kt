@@ -1,17 +1,18 @@
 
-import android.os.Bundle import android.os.PersistableBundle
-import androidx.activity.ComponentActivity
+import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.bignerdranch.bootsignalgenerator_android.R
+import com.bignerdranch.bootsignalgenerator_android.fragments.BottomButtonsFragment
 
-class PoolActivity : ComponentActivity() {
+class PoolActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
-        val fragment = PoolActivity()
+        val fragment = BottomButtonsFragment()
 
         supportFragmentManager.beginTransaction()
-            .replaсe(R.id.bottomButtonsContainer, fragment)
+            .replace(R.id.bottomButtonsContainer, fragment)
             .commit()
     }
 
