@@ -1,8 +1,10 @@
+package com.bignerdranch.bootsignalgenerator_android
+
+import PoolActivity
 import android.content.Intent
 import android.os.Bundle
 import android.widget.Button
 import androidx.activity.ComponentActivity
-import com.bignerdranch.bootsignalgenerator_android.R
 
 
 class MainActivity : ComponentActivity() {
